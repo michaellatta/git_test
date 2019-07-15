@@ -1,0 +1,1 @@
+This is Michael Latta’s first git project!
